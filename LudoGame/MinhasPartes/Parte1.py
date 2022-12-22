@@ -1,3 +1,4 @@
+'''''''''''''''
 class Infos_do_Jogo:
     def __init__(self):
         self.percurso_normal = 56
@@ -171,3 +172,5 @@ def Funcion_Sort(item):
 
 def Funcion_Sort_Ordem_de_Jogada(jogador):
     return int(jogador.primeira_jogada)
+
+'''''''''
