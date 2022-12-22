@@ -1,0 +1,6 @@
+no = input()
+sf = float(input())
+ven = float(input())
+co = (ven * 0.15)
+sb = (sf + co)
+print('TOTAL = R$ {:.2f}'.format(sb))
