@@ -1,4 +1,5 @@
 lulu = input().split()
+r = float(input("insira o raio: "))
 a = float(lulu[0])
 b = float(lulu[1])
 c = float(lulu[2])
